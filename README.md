@@ -13,7 +13,7 @@
 * Your application requests market data for one or more symbols, then
 * Your application receives a market data stream for subscribed symbols.
 
-### Openfeed
+### Openfeed   
 
 This library receives market data using a proprietary protocol called DDF. For new development, Barchart has switched to an open-source protocol called [Openfeed](https://docs.barchart.com/openfeed/#/) to transfer market data. Consequently, this library will be marked as deprecated in the near future. You can access new SDK libraries for Openfeed [here](https://www.barchart.com/solutions/services/stream).
 
